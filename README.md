@@ -1,4 +1,4 @@
-# fllapy_bird
+# Mock_flappy_bird
 
 A new Flutter project.
 
