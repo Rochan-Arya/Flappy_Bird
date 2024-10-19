@@ -1,16 +1,16 @@
-# Mock_flappy_bird
+# Flappy Bird Mock App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This project is a mock version of the classic arcade game **Flappy Bird**. The objective of the game is simple: tap the screen to keep the bird flying and avoid hitting the obstacles. The game ends when the bird collides with a pipe or falls to the ground.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Simple Tap Controls:** Tap anywhere on the screen to make the bird flap its wings.
+- **Obstacle Navigation:** Fly through gaps between pipes and avoid collisions.
+- **Endless Gameplay:** Keep the bird flying as long as possible and aim for a high score.
+- **Score Tracking:** Your score increases with every obstacle you successfully pass.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flappy_bird](https://github.com/user-attachments/assets/344539ef-e8be-4fec-9fad-9570ec3584af)
